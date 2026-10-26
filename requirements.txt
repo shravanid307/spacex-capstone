@@ -1,0 +1,24 @@
+# IBM Applied Data Science Capstone: SpaceX Falcon 9 Landing Prediction
+# Core Python Dependencies
+
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Visualization & Geospatial
+matplotlib>=3.7.0
+seaborn>=0.12.0
+folium>=0.14.0
+plotly>=5.14.0
+dash>=2.10.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Reporting & Presentation Export
+python-pptx>=0.6.21
+reportlab>=3.6.12
+nbformat>=5.9.0
